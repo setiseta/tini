@@ -1,2 +1,2 @@
 # tini
-Tini Base Image
+Tini Base Image, on Ubuntu latest LTS
